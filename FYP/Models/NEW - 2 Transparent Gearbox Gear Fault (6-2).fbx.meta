@@ -1,0 +1,3556 @@
+fileFormatVersion: 2
+guid: fd2f1060607693441ba889b4f9abf770
+timeCreated: 1486354541
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bearing Armature
+    100002: Bone
+    100004: Bone 1
+    100006: Bone 2
+    100008: Bone 3
+    100010: Bone 4
+    100012: Bone_end
+    100014: Bone_end 1
+    100016: Bone_end 2
+    100018: Bone_end 3
+    100020: Bone_end 4
+    100022: Faulty Gear Armature
+    100024: Gearbox assem without gear and bearing - ballbearing-1
+    100026: Gearbox assem without gear and bearing - ballbearing-1_MeshPart0
+    100028: Gearbox assem without gear and bearing - ballbearing-1_MeshPart1
+    100030: Gearbox assem without gear and bearing - GearBox with one shaft
+    100032: Gearbox assem without gear and bearing - GearBox with one shaft_MeshPart0
+    100034: Gearbox assem without gear and bearing - GearBox with one shaft_MeshPart1
+    100036: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+    100038: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+    100040: Gearbox assem without gear and bearing - Shaft Assembly without
+    100042: Gearbox assem without gear and bearing - Small Gear-1
+    100044: //RootNode
+    100046: New Gear Armature
+    100048: Normal Gear Armature
+    100050: Shaft Armature
+    400000: Bearing Armature
+    400002: Bone
+    400004: Bone 1
+    400006: Bone 2
+    400008: Bone 3
+    400010: Bone 4
+    400012: Bone_end
+    400014: Bone_end 1
+    400016: Bone_end 2
+    400018: Bone_end 3
+    400020: Bone_end 4
+    400022: Faulty Gear Armature
+    400024: Gearbox assem without gear and bearing - ballbearing-1
+    400026: Gearbox assem without gear and bearing - ballbearing-1_MeshPart0
+    400028: Gearbox assem without gear and bearing - ballbearing-1_MeshPart1
+    400030: Gearbox assem without gear and bearing - GearBox with one shaft
+    400032: Gearbox assem without gear and bearing - GearBox with one shaft_MeshPart0
+    400034: Gearbox assem without gear and bearing - GearBox with one shaft_MeshPart1
+    400036: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+    400038: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+    400040: Gearbox assem without gear and bearing - Shaft Assembly without
+    400042: Gearbox assem without gear and bearing - Small Gear-1
+    400044: //RootNode
+    400046: New Gear Armature
+    400048: Normal Gear Armature
+    400050: Shaft Armature
+    2300000: Gearbox assem without gear and bearing - GearBox with one shaft_MeshPart0
+    2300002: Gearbox assem without gear and bearing - GearBox with one shaft_MeshPart1
+    3300000: Gearbox assem without gear and bearing - GearBox with one shaft_MeshPart0
+    3300002: Gearbox assem without gear and bearing - GearBox with one shaft_MeshPart1
+    4300000: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+    4300002: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+    4300004: Gearbox assem without gear and bearing - Shaft Assembly without
+    4300006: Gearbox assem without gear and bearing - Small Gear-1
+    4300008: Gearbox assem without gear and bearing - ballbearing-1_MeshPart0
+    4300010: Gearbox assem without gear and bearing - ballbearing-1_MeshPart1
+    4300012: Gearbox assem without gear and bearing - GearBox with one shaft_MeshPart0
+    4300014: Gearbox assem without gear and bearing - GearBox with one shaft_MeshPart1
+    7400000: New Gear ArmatureAction.Step2
+    7400002: New Gear ArmatureAction.Start
+    7400004: New Gear ArmatureAction.End
+    7400006: Faulty Gear ArmatureAction.Step2
+    7400008: Faulty Gear ArmatureAction.Start
+    7400010: Faulty Gear ArmatureAction.End
+    7400012: Shaft ArmatureAction.Step4
+    7400014: Shaft ArmatureAction.Default
+    7400016: Normal Gear ArmatureAction.Step4
+    7400018: Normal Gear ArmatureAction.Default
+    7400020: Bearing ArmatureAction.Step4
+    7400022: Bearing ArmatureAction.Default
+    7400024: New Gear Armature|Bearing ArmatureAction.001
+    7400026: New Gear Armature|Bearing ArmatureAction.002
+    7400028: New Gear Armature|Bearing ArmatureAction.003
+    7400030: New Gear Armature|Bearing ArmatureAction.004
+    7400032: New Gear Armature|Bearing ArmatureAction.Default
+    7400034: New Gear Armature|Bearing ArmatureAction.Step1
+    7400036: New Gear Armature|Bearing ArmatureAction.Step2
+    7400038: New Gear Armature|Bearing ArmatureAction.Step3
+    7400040: New Gear Armature|Bearing ArmatureAction.Step4
+    7400042: New Gear Armature|Faulty Gear ArmatureAction.End
+    7400044: New Gear Armature|Faulty Gear ArmatureAction.Start
+    7400046: New Gear Armature|Faulty Gear ArmatureAction.Step1
+    7400048: New Gear Armature|Faulty Gear ArmatureAction.Step2
+    7400050: New Gear Armature|New Gear ArmatureAction.End
+    7400052: New Gear Armature|New Gear ArmatureAction.Start
+    7400054: New Gear Armature|New Gear ArmatureAction.Step1
+    7400056: New Gear Armature|New Gear ArmatureAction.Step1.001
+    7400058: New Gear Armature|New Gear ArmatureAction.Step2
+    7400060: New Gear Armature|New Step 1
+    7400062: New Gear Armature|Normal Gear ArmatureAction.Default
+    7400064: New Gear Armature|Normal Gear ArmatureAction.Step1
+    7400066: New Gear Armature|Normal Gear ArmatureAction.Step2
+    7400068: New Gear Armature|Normal Gear ArmatureAction.Step3
+    7400070: New Gear Armature|Normal Gear ArmatureAction.Step4
+    7400072: New Gear Armature|Shaft ArmatureAction.001
+    7400074: New Gear Armature|Shaft ArmatureAction.Default
+    7400076: New Gear Armature|Shaft ArmatureAction.Step1
+    7400078: New Gear Armature|Shaft ArmatureAction.Step2
+    7400080: New Gear Armature|Shaft ArmatureAction.Step3
+    7400082: New Gear Armature|Shaft ArmatureAction.Step4
+    7400084: New Gear Armature|Shaft ArmatureActionLast
+    7400086: New Gear Armature|Step 1.001
+    7400088: New Gear Armature|Step 1.002
+    7400090: New Gear Armature|Step 2
+    7400092: New Gear Armature|Step 2.001
+    7400094: New Gear Armature|Step 3
+    7400096: New Gear Armature|Step 3.001
+    7400098: New Gear Armature|Step 3.002
+    7400100: New Gear Armature|Step 4
+    7400102: New Gear Armature|Step 4.001
+    7400104: New Gear Armature|Step 4.002
+    7400106: New Gear Armature|Step2
+    7400108: Faulty Gear Armature|Bearing ArmatureAction.001
+    7400110: Faulty Gear Armature|Bearing ArmatureAction.002
+    7400112: Faulty Gear Armature|Bearing ArmatureAction.003
+    7400114: Faulty Gear Armature|Bearing ArmatureAction.004
+    7400116: Faulty Gear Armature|Bearing ArmatureAction.Default
+    7400118: Faulty Gear Armature|Bearing ArmatureAction.Step1
+    7400120: Faulty Gear Armature|Bearing ArmatureAction.Step2
+    7400122: Faulty Gear Armature|Bearing ArmatureAction.Step3
+    7400124: Faulty Gear Armature|Bearing ArmatureAction.Step4
+    7400126: Faulty Gear Armature|Faulty Gear ArmatureAction.End
+    7400128: Faulty Gear Armature|Faulty Gear ArmatureAction.Start
+    7400130: Faulty Gear Armature|Faulty Gear ArmatureAction.Step1
+    7400132: Faulty Gear Armature|Faulty Gear ArmatureAction.Step2
+    7400134: Faulty Gear Armature|New Gear ArmatureAction.End
+    7400136: Faulty Gear Armature|New Gear ArmatureAction.Start
+    7400138: Faulty Gear Armature|New Gear ArmatureAction.Step1
+    7400140: Faulty Gear Armature|New Gear ArmatureAction.Step1.001
+    7400142: Faulty Gear Armature|New Gear ArmatureAction.Step2
+    7400144: Faulty Gear Armature|New Step 1
+    7400146: Faulty Gear Armature|Normal Gear ArmatureAction.Default
+    7400148: Faulty Gear Armature|Normal Gear ArmatureAction.Step1
+    7400150: Faulty Gear Armature|Normal Gear ArmatureAction.Step2
+    7400152: Faulty Gear Armature|Normal Gear ArmatureAction.Step3
+    7400154: Faulty Gear Armature|Normal Gear ArmatureAction.Step4
+    7400156: Faulty Gear Armature|Shaft ArmatureAction.001
+    7400158: Faulty Gear Armature|Shaft ArmatureAction.Default
+    7400160: Faulty Gear Armature|Shaft ArmatureAction.Step1
+    7400162: Faulty Gear Armature|Shaft ArmatureAction.Step2
+    7400164: Faulty Gear Armature|Shaft ArmatureAction.Step3
+    7400166: Faulty Gear Armature|Shaft ArmatureAction.Step4
+    7400168: Faulty Gear Armature|Shaft ArmatureActionLast
+    7400170: Faulty Gear Armature|Step 1.001
+    7400172: Faulty Gear Armature|Step 1.002
+    7400174: Faulty Gear Armature|Step 2
+    7400176: Faulty Gear Armature|Step 2.001
+    7400178: Faulty Gear Armature|Step 3
+    7400180: Faulty Gear Armature|Step 3.001
+    7400182: Faulty Gear Armature|Step 3.002
+    7400184: Faulty Gear Armature|Step 4
+    7400186: Faulty Gear Armature|Step 4.001
+    7400188: Faulty Gear Armature|Step 4.002
+    7400190: Faulty Gear Armature|Step2
+    7400192: Shaft Armature|Bearing ArmatureAction.001
+    7400194: Shaft Armature|Bearing ArmatureAction.002
+    7400196: Shaft Armature|Bearing ArmatureAction.003
+    7400198: Shaft Armature|Bearing ArmatureAction.004
+    7400200: Shaft Armature|Bearing ArmatureAction.Default
+    7400202: Shaft Armature|Bearing ArmatureAction.Step1
+    7400204: Shaft Armature|Bearing ArmatureAction.Step2
+    7400206: Shaft Armature|Bearing ArmatureAction.Step3
+    7400208: Shaft Armature|Bearing ArmatureAction.Step4
+    7400210: Shaft Armature|Faulty Gear ArmatureAction.End
+    7400212: Shaft Armature|Faulty Gear ArmatureAction.Start
+    7400214: Shaft Armature|Faulty Gear ArmatureAction.Step1
+    7400216: Shaft Armature|Faulty Gear ArmatureAction.Step2
+    7400218: Shaft Armature|New Gear ArmatureAction.End
+    7400220: Shaft Armature|New Gear ArmatureAction.Start
+    7400222: Shaft Armature|New Gear ArmatureAction.Step1
+    7400224: Shaft Armature|New Gear ArmatureAction.Step1.001
+    7400226: Shaft Armature|New Gear ArmatureAction.Step2
+    7400228: Shaft Armature|New Step 1
+    7400230: Shaft Armature|Normal Gear ArmatureAction.Default
+    7400232: Shaft Armature|Normal Gear ArmatureAction.Step1
+    7400234: Shaft Armature|Normal Gear ArmatureAction.Step2
+    7400236: Shaft Armature|Normal Gear ArmatureAction.Step3
+    7400238: Shaft Armature|Normal Gear ArmatureAction.Step4
+    7400240: Shaft Armature|Shaft ArmatureAction.001
+    7400242: Shaft Armature|Shaft ArmatureAction.Default
+    7400244: Shaft Armature|Shaft ArmatureAction.Step1
+    7400246: Shaft Armature|Shaft ArmatureAction.Step2
+    7400248: Shaft Armature|Shaft ArmatureAction.Step3
+    7400250: Shaft Armature|Shaft ArmatureAction.Step4
+    7400252: Shaft Armature|Shaft ArmatureActionLast
+    7400254: Shaft Armature|Step 1.001
+    7400256: Shaft Armature|Step 1.002
+    7400258: Shaft Armature|Step 2
+    7400260: Shaft Armature|Step 2.001
+    7400262: Shaft Armature|Step 3
+    7400264: Shaft Armature|Step 3.001
+    7400266: Shaft Armature|Step 3.002
+    7400268: Shaft Armature|Step 4
+    7400270: Shaft Armature|Step 4.001
+    7400272: Shaft Armature|Step 4.002
+    7400274: Shaft Armature|Step2
+    7400276: Normal Gear Armature|Bearing ArmatureAction.001
+    7400278: Normal Gear Armature|Bearing ArmatureAction.002
+    7400280: Normal Gear Armature|Bearing ArmatureAction.003
+    7400282: Normal Gear Armature|Bearing ArmatureAction.004
+    7400284: Normal Gear Armature|Bearing ArmatureAction.Default
+    7400286: Normal Gear Armature|Bearing ArmatureAction.Step1
+    7400288: Normal Gear Armature|Bearing ArmatureAction.Step2
+    7400290: Normal Gear Armature|Bearing ArmatureAction.Step3
+    7400292: Normal Gear Armature|Bearing ArmatureAction.Step4
+    7400294: Normal Gear Armature|Faulty Gear ArmatureAction.End
+    7400296: Normal Gear Armature|Faulty Gear ArmatureAction.Start
+    7400298: Normal Gear Armature|Faulty Gear ArmatureAction.Step1
+    7400300: Normal Gear Armature|Faulty Gear ArmatureAction.Step2
+    7400302: Normal Gear Armature|New Gear ArmatureAction.End
+    7400304: Normal Gear Armature|New Gear ArmatureAction.Start
+    7400306: Normal Gear Armature|New Gear ArmatureAction.Step1
+    7400308: Normal Gear Armature|New Gear ArmatureAction.Step1.001
+    7400310: Normal Gear Armature|New Gear ArmatureAction.Step2
+    7400312: Normal Gear Armature|New Step 1
+    7400314: Normal Gear Armature|Normal Gear ArmatureAction.Default
+    7400316: Normal Gear Armature|Normal Gear ArmatureAction.Step1
+    7400318: Normal Gear Armature|Normal Gear ArmatureAction.Step2
+    7400320: Normal Gear Armature|Normal Gear ArmatureAction.Step3
+    7400322: Normal Gear Armature|Normal Gear ArmatureAction.Step4
+    7400324: Normal Gear Armature|Shaft ArmatureAction.001
+    7400326: Normal Gear Armature|Shaft ArmatureAction.Default
+    7400328: Normal Gear Armature|Shaft ArmatureAction.Step1
+    7400330: Normal Gear Armature|Shaft ArmatureAction.Step2
+    7400332: Normal Gear Armature|Shaft ArmatureAction.Step3
+    7400334: Normal Gear Armature|Shaft ArmatureAction.Step4
+    7400336: Normal Gear Armature|Shaft ArmatureActionLast
+    7400338: Normal Gear Armature|Step 1.001
+    7400340: Normal Gear Armature|Step 1.002
+    7400342: Normal Gear Armature|Step 2
+    7400344: Normal Gear Armature|Step 2.001
+    7400346: Normal Gear Armature|Step 3
+    7400348: Normal Gear Armature|Step 3.001
+    7400350: Normal Gear Armature|Step 3.002
+    7400352: Normal Gear Armature|Step 4
+    7400354: Normal Gear Armature|Step 4.001
+    7400356: Normal Gear Armature|Step 4.002
+    7400358: Normal Gear Armature|Step2
+    7400360: Bearing Armature|Bearing ArmatureAction.001
+    7400362: Bearing Armature|Bearing ArmatureAction.002
+    7400364: Bearing Armature|Bearing ArmatureAction.003
+    7400366: Bearing Armature|Bearing ArmatureAction.004
+    7400368: Bearing Armature|Bearing ArmatureAction.Default
+    7400370: Bearing Armature|Bearing ArmatureAction.Step1
+    7400372: Bearing Armature|Bearing ArmatureAction.Step2
+    7400374: Bearing Armature|Bearing ArmatureAction.Step3
+    7400376: Bearing Armature|Bearing ArmatureAction.Step4
+    7400378: Bearing Armature|Faulty Gear ArmatureAction.End
+    7400380: Bearing Armature|Faulty Gear ArmatureAction.Start
+    7400382: Bearing Armature|Faulty Gear ArmatureAction.Step1
+    7400384: Bearing Armature|Faulty Gear ArmatureAction.Step2
+    7400386: Bearing Armature|New Gear ArmatureAction.End
+    7400388: Bearing Armature|New Gear ArmatureAction.Start
+    7400390: Bearing Armature|New Gear ArmatureAction.Step1
+    7400392: Bearing Armature|New Gear ArmatureAction.Step1.001
+    7400394: Bearing Armature|New Gear ArmatureAction.Step2
+    7400396: Bearing Armature|New Step 1
+    7400398: Bearing Armature|Normal Gear ArmatureAction.Default
+    7400400: Bearing Armature|Normal Gear ArmatureAction.Step1
+    7400402: Bearing Armature|Normal Gear ArmatureAction.Step2
+    7400404: Bearing Armature|Normal Gear ArmatureAction.Step3
+    7400406: Bearing Armature|Normal Gear ArmatureAction.Step4
+    7400408: Bearing Armature|Shaft ArmatureAction.001
+    7400410: Bearing Armature|Shaft ArmatureAction.Default
+    7400412: Bearing Armature|Shaft ArmatureAction.Step1
+    7400414: Bearing Armature|Shaft ArmatureAction.Step2
+    7400416: Bearing Armature|Shaft ArmatureAction.Step3
+    7400418: Bearing Armature|Shaft ArmatureAction.Step4
+    7400420: Bearing Armature|Shaft ArmatureActionLast
+    7400422: Bearing Armature|Step 1.001
+    7400424: Bearing Armature|Step 1.002
+    7400426: Bearing Armature|Step 2
+    7400428: Bearing Armature|Step 2.001
+    7400430: Bearing Armature|Step 3
+    7400432: Bearing Armature|Step 3.001
+    7400434: Bearing Armature|Step 3.002
+    7400436: Bearing Armature|Step 4
+    7400438: Bearing Armature|Step 4.001
+    7400440: Bearing Armature|Step 4.002
+    7400442: Bearing Armature|Step2
+    9500000: //RootNode
+    13700000: Gearbox assem without gear and bearing - ballbearing-1_MeshPart0
+    13700002: Gearbox assem without gear and bearing - ballbearing-1_MeshPart1
+    13700004: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+    13700006: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+    13700008: Gearbox assem without gear and bearing - Shaft Assembly without
+    13700010: Gearbox assem without gear and bearing - Small Gear-1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Faulty Gear ArmatureAction.Step2
+      takeName: Faulty Gear ArmatureAction.Step2
+      firstFrame: 0
+      lastFrame: 251
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Faulty Gear ArmatureAction.Start
+      takeName: Faulty Gear ArmatureAction.Start
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Faulty Gear ArmatureAction.End
+      takeName: Faulty Gear ArmatureAction.End
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shaft ArmatureAction.Step4
+      takeName: Shaft ArmatureAction.Step4
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shaft ArmatureAction.Default
+      takeName: Shaft ArmatureAction.Default
+      firstFrame: 0
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Normal Gear ArmatureAction.Step4
+      takeName: Normal Gear ArmatureAction.Step4
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Normal Gear ArmatureAction.Default
+      takeName: Normal Gear ArmatureAction.Default
+      firstFrame: 0
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bearing ArmatureAction.Step4
+      takeName: Bearing ArmatureAction.Step4
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bearing ArmatureAction.Default
+      takeName: Bearing ArmatureAction.Default
+      firstFrame: 0
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: New Gear Armature|New Gear ArmatureAction.End
+      takeName: New Gear Armature|New Gear ArmatureAction.End
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: New Gear Armature|New Gear ArmatureAction.Start
+      takeName: New Gear Armature|New Gear ArmatureAction.Start
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: New Gear Armature|New Gear ArmatureAction.Step1
+      takeName: New Gear Armature|New Gear ArmatureAction.Step1
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: New Gear Armature|New Gear ArmatureAction.Step1.001
+      takeName: New Gear Armature|New Gear ArmatureAction.Step1.001
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: New Gear Armature|New Gear ArmatureAction.Step2
+      takeName: New Gear Armature|New Gear ArmatureAction.Step2
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Faulty Gear Armature|Faulty Gear ArmatureAction.End
+      takeName: Faulty Gear Armature|Faulty Gear ArmatureAction.End
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Faulty Gear Armature|Faulty Gear ArmatureAction.Start
+      takeName: Faulty Gear Armature|Faulty Gear ArmatureAction.Start
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Faulty Gear Armature|Faulty Gear ArmatureAction.Step1
+      takeName: Faulty Gear Armature|Faulty Gear ArmatureAction.Step1
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Faulty Gear Armature|Faulty Gear ArmatureAction.Step2
+      takeName: Faulty Gear Armature|Faulty Gear ArmatureAction.Step2
+      firstFrame: 0
+      lastFrame: 251
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shaft Armature|Shaft ArmatureAction.Default
+      takeName: Shaft Armature|Shaft ArmatureAction.Default
+      firstFrame: 0
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shaft Armature|Shaft ArmatureAction.Step1
+      takeName: Shaft Armature|Shaft ArmatureAction.Step1
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shaft Armature|Shaft ArmatureAction.Step2
+      takeName: Shaft Armature|Shaft ArmatureAction.Step2
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shaft Armature|Shaft ArmatureAction.Step3
+      takeName: Shaft Armature|Shaft ArmatureAction.Step3
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shaft Armature|Shaft ArmatureAction.Step4
+      takeName: Shaft Armature|Shaft ArmatureAction.Step4
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shaft Armature|Shaft ArmatureActionLast
+      takeName: Shaft Armature|Shaft ArmatureActionLast
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Normal Gear Armature|Normal Gear ArmatureAction.Default
+      takeName: Normal Gear Armature|Normal Gear ArmatureAction.Default
+      firstFrame: 0
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Normal Gear Armature|Normal Gear ArmatureAction.Step1
+      takeName: Normal Gear Armature|Normal Gear ArmatureAction.Step1
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Normal Gear Armature|Normal Gear ArmatureAction.Step2
+      takeName: Normal Gear Armature|Normal Gear ArmatureAction.Step2
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Normal Gear Armature|Normal Gear ArmatureAction.Step3
+      takeName: Normal Gear Armature|Normal Gear ArmatureAction.Step3
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Normal Gear Armature|Normal Gear ArmatureAction.Step4
+      takeName: Normal Gear Armature|Normal Gear ArmatureAction.Step4
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bearing Armature|Bearing ArmatureAction.001
+      takeName: Bearing Armature|Bearing ArmatureAction.001
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bearing Armature|Bearing ArmatureAction.002
+      takeName: Bearing Armature|Bearing ArmatureAction.002
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bearing Armature|Bearing ArmatureAction.003
+      takeName: Bearing Armature|Bearing ArmatureAction.003
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bearing Armature|Bearing ArmatureAction.004
+      takeName: Bearing Armature|Bearing ArmatureAction.004
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bearing Armature|Bearing ArmatureAction.Default
+      takeName: Bearing Armature|Bearing ArmatureAction.Default
+      firstFrame: 0
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bearing Armature|Bearing ArmatureAction.Step1
+      takeName: Bearing Armature|Bearing ArmatureAction.Step1
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bearing Armature|Bearing ArmatureAction.Step2
+      takeName: Bearing Armature|Bearing ArmatureAction.Step2
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bearing Armature|Bearing ArmatureAction.Step3
+      takeName: Bearing Armature|Bearing ArmatureAction.Step3
+      firstFrame: 0
+      lastFrame: 251
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bearing Armature|Bearing ArmatureAction.Step4
+      takeName: Bearing Armature|Bearing ArmatureAction.Step4
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bearing Armature
+        weight: 1
+      - path: Bearing Armature/Bone
+        weight: 1
+      - path: Bearing Armature/Bone/Bone_end
+        weight: 1
+      - path: Faulty Gear Armature
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1
+        weight: 1
+      - path: Faulty Gear Armature/Bone 1/Bone_end 1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - ballbearing-1/Gearbox assem
+          without gear and bearing - ballbearing-1_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart0
+        weight: 1
+      - path: Gearbox assem without gear and bearing - GearBox with one shaft/Gearbox
+          assem without gear and bearing - GearBox with one shaft_MeshPart1
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 pro.000
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Medium Gear (4 protudi
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Shaft Assembly without
+        weight: 1
+      - path: Gearbox assem without gear and bearing - Small Gear-1
+        weight: 1
+      - path: New Gear Armature
+        weight: 1
+      - path: New Gear Armature/Bone 2
+        weight: 1
+      - path: New Gear Armature/Bone 2/Bone_end 2
+        weight: 1
+      - path: Normal Gear Armature
+        weight: 1
+      - path: Normal Gear Armature/Bone 3
+        weight: 1
+      - path: Normal Gear Armature/Bone 3/Bone_end 3
+        weight: 1
+      - path: Shaft Armature
+        weight: 1
+      - path: Shaft Armature/Bone 4
+        weight: 1
+      - path: Shaft Armature/Bone 4/Bone_end 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
