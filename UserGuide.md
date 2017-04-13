@@ -30,18 +30,18 @@ Please follow the following set up instructions for the image tracker and the ge
 
 #### Image Tracker
 - For the Augmented Reality features to accurately overlay onto physical models, an image tracker is used. 
-	> <img src="/Graphics/Tracker.jpg" width="400">
+	> <img src="/Graphics/Tracker.jpg" width="250">
 - You may print out the image file with dimensions 12cm by 12cm.
 
 #### Retired Gearbox Engine
 - The retired gearbox engine used in ARCoM was obtained from the Augmented Reality Laboratory in NUS.
-	> <img src="/Graphics/PhysicalGearbox.jpg" width="400">
+	> <img src="/Graphics/PhysicalGearbox.JPG" width="250">
 
 #### Set Up
 - Place the image tracker centred and in front of the physical gearbox as shown in the image below.
-	> <img src="/Graphics/GearboxSetup.jpg" width="400">
+	> <img src="/Graphics/GearboxSetup.JPG" width="250">
 
 ## Features
 
-#### 
+#### Calibration
 
