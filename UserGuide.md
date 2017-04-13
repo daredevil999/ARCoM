@@ -66,4 +66,15 @@ Please follow the following set up instructions for the image tracker and the ge
 > <img src="/Graphics/GearMaintenanceStep1.JPG">
 > <img src="/Graphics/GearMaintenanceStep4.JPG">
 
+#### Failure Demo
+- On the right panel of the `Homepage`, there are 4 buttons each simulating sensor input in the event of the failure scenario.
+- <img src="/Graphics/Homepage.JPG">
+- You may select any of the demo scenarios to view the failure prediction and visualisation capabilities of ARCoM.
+- Notice that the predicted failure component is highlighted in red and augmented onto the physical gearbox.
+- Screenshots of ARCoM under Gear Wear failure simulation
+> <img src="/Graphics/GearWearScenario.JPG">
+> <img src="/Graphics/GearWearStatus.JPG">
+
+
+
 
