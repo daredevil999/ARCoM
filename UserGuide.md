@@ -43,5 +43,27 @@ Please follow the following set up instructions for the image tracker and the ge
 
 ## Features
 
-#### Calibration
+#### Homepage 
+- Upon detection of the unique image tracker, users will be brought to the Homepage.
+- <img src="/Graphics/Homepage.JPG">
+- On the left panel, there are 4 buttons in yellow which redirects users to the pages with the respective information: `Vibration Analysis` , `Oil Analysis` , `Operating Conditions` and `Maintenance Guide`.
+
+#### Vibration Analysis Page
+- Users can view the Vibration Analysis condition indicators tracked for the gearbox.
+- <img src="/Graphics/VibrationAnalysis.JPG">
+
+#### Oil Analysis Page
+- Users can view the Oil Analysis condition indicators tracked for the gearbox.
+- <img src="/Graphics/OilAnalysis.JPG">
+
+#### Operating Conditions Page
+- Users can view the operating conditions of the gearbox.
+- <img src="/Graphics/OperatingConditions.JPG">
+
+#### Maintenance Guide
+- Users can view the maintenance steps for bearing and gear replacement for the gearbox.
+- Screenshots of Gear Replacement Steps
+> <img src="/Graphics/GearMaintenanceStep1.JPG">
+> <img src="/Graphics/GearMaintenanceStep4.JPG">
+
 
